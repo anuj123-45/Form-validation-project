@@ -14,8 +14,8 @@ display:flex;
 
 <h1>The img element</h1>
 <div id="container">
-<img src="img1.png"  width="500" height="600">
-<img src="img1.png"  width="500" height="600">
+<img src="img1.png"  width="500" >
+<img src="img1.png"  width="500">
 </div>
 </body>
 </html>
