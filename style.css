@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color:darkgray
+}
+
+#title{
+    color:#234fff;
+    text-decoration: underline;
+  
+}
+
+label,.form-text{
+    font-weight:bold;
+}
+
